@@ -31,3 +31,10 @@
   background: $purple;
   color: white;
 }
+
+.navigation-helper {
+  height: 1px;
+  background: transparent;
+  position: relative;
+  top: -60px;
+}

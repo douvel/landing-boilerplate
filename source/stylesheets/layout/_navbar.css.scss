@@ -2,9 +2,9 @@
  * Colors & Fonts
  * ------------------------------------- */
 $navbar-color: black;
-$navbar-hover-color: $yellow;
+$navbar-hover-color: white;
 $navbar-font-family: $header-font;
-$navbar-bg: white;
+$navbar-bg: $yellow;
 
 /* -------------------------------------
  * Box model
@@ -19,7 +19,7 @@ $navbar-border-bottom-color: grey;
  * Navbar button
  * ------------------------------------- */
 $navbar-btn-height: 40px;
-$navbar-btn-bg: lightgrey;
+$navbar-btn-bg: $green;
 $navbar-btn-color: white;
 $navbar-btn-horizontal-padding: 10px;
 $navbar-btn-radius: 2px;
@@ -50,6 +50,7 @@ $navbar-profile-border-width: 2px;
   .navbar-nav > li > a:focus,
   .navbar-nav > .open > a:focus {
     outline: none;
+    padding-right: 25px;
     color: $navbar-color;
     line-height: $navbar-height;
     padding-top: $navbar-vertical-padding;
@@ -91,7 +92,7 @@ $navbar-profile-border-width: 2px;
 
   .navbar-brand img, .navbar-brand svg {
     height: $navbar-height;
-    padding: 0px;
+    padding: 10px;
   }
 
   .img-avatar{
