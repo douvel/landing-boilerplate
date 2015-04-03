@@ -9428,7 +9428,7 @@ button.close {
   height: 1px;
   background: transparent;
   position: relative;
-  top: -60px; }
+  top: -100px; }
 
 /* line 5, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 body {
@@ -9477,27 +9477,25 @@ h3 {
 
 /* line 49, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 #newsletter {
-  padding: 50px;
-  margin-top: 50px;
-  margin-bottom: 50px; }
+  padding: 50px; }
 
-/* line 55, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 53, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 ul {
   padding-left: 0px; }
 
-/* line 58, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 56, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 li {
   list-style-type: none; }
 
-/* line 62, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 60, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .row {
   margin: 20px auto; }
 
-/* line 66, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 64, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .feature {
   padding-top: 50px; }
 
-/* line 70, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 68, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .btn-xlarge {
   margin-top: 30px;
   padding: 18px 28px;
@@ -9509,7 +9507,7 @@ li {
   font-weight: 700;
   border-bottom: 10px solid #CDAA0C; }
 
-/* line 83, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 81, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .btn-xlarge:focus {
   background: #F4D03F;
   border-bottom: 10px solid #CDAA0C;
@@ -9517,7 +9515,7 @@ li {
   text-decoration: none;
   outline: 0; }
 
-/* line 90, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 88, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .btn-xlarge:hover {
   background: #FAD645;
   color: black;
@@ -9526,41 +9524,40 @@ li {
   padding-bottom: 20px;
   border-bottom: 8px solid #C2A006; }
 
-/* line 99, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 97, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .modal-header {
   background: #F4D03F; }
 
-/* line 103, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 101, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 #starting {
   background-image: url("../images/grass-bg.jpg");
   min-height: 300px;
   color: white;
   padding: 50px;
-  margin-top: 50px;
-  margin-bottom: 50px; }
+  margin-top: 50px; }
 
-/* line 112, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 109, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 #starting p {
   color: black; }
 
-/* line 116, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 113, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 #starting img {
   width: 140px;
   height: 140px;
   margin: 10px;
   border: 6px solid gainsboro;
   transition: all 0.3s ease; }
-  /* line 122, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+  /* line 119, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
   #starting img:hover {
     transform: scale(1.1); }
 
-/* line 127, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 124, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 #starting li {
   font-size: 16px;
   font-weight: 700;
   text-align: center; }
 
-/* line 133, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 130, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .form-nl {
   width: 300px;
   padding: 24px;
@@ -9568,7 +9565,7 @@ li {
   border: solid 8px #F4F4F4;
   margin-right: 20px; }
 
-/* line 141, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 138, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .go {
   display: inline-block;
   padding: 15px 15px;
@@ -9582,7 +9579,7 @@ li {
   cursor: pointer;
   border-radius: 50%; }
 
-/* line 155, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 152, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .go-success {
   color: #FFFFFF;
   background-color: #46E5B5;
@@ -9590,7 +9587,7 @@ li {
   font-weight: 700;
   font-size: 21px; }
 
-/* line 164, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 161, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .go-success:hover {
   color: #FFFFFF;
   background-color: #46D5AA;
@@ -9598,15 +9595,15 @@ li {
   font-weight: 700;
   font-size: 21px; }
 
-/* line 172, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 169, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .popover {
   color: black; }
 
-/* line 176, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 173, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .gob {
   color: red; }
 
-/* line 181, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 178, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 #sidebar {
   background-color: rgba(244, 208, 63, 0.29);
   position: fixed;
@@ -9614,7 +9611,7 @@ li {
   z-index: 1;
   margin: 20px; }
 
-/* line 189, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 186, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .list-icon {
   list-style-type: none;
   font-size: 30px;
@@ -9622,15 +9619,15 @@ li {
   text-align: center;
   padding: 5px; }
 
-/* line 197, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 194, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .list-icon a {
   color: white; }
 
-/* line 201, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 198, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .list-icon a:hover {
   color: #F4D03F; }
 
-/* line 205, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
+/* line 202, /Users/davidb/code/douvel/landing-boilerplate/source/stylesheets/pages/_home.css.scss */
 .bg-rad {
   background-image: radial-gradient(#0da5d2, #428bca);
   color: white; }
